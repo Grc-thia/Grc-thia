@@ -3,7 +3,9 @@ Hello, my name is Cynthia
 
 <a href="https://www.linkedin.com/in/cynthia-mbanu-85672b193" target="_blank"><img src="https://github.com/your-Grc-thia/your-Grc-thia/raw/main/images/linkedin-logo.png" alt="LinkedIn Logo">
 
-This portofolio is a collection of differrent projects i have done in cybersecurity, especially in GRC side of things.
+(Brief Introduction)
+
+I am a recent graduate of Cybersecurity management, with profound interest in technology, especially the Governance, Risk Management and Compliance side of Cybersecurity.
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
